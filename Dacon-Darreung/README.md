@@ -16,7 +16,7 @@ python train.py --model nn
 
 
 ## test
-훈련한 4개 모델에 대한 앙상블 실시.
+훈련한 4개 모델에 대한 앙상블 실시.   
 코드 실행 후, Private leaderboard 재현이 가능한 ```3중대3소대장_submission.csv``` 파일이 생성됨
 ```
 python test.py
