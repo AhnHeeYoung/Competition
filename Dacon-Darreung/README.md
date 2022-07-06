@@ -8,7 +8,7 @@ conda activate Darreung
 ```
 
 ## train
-총 4개 모델에 대한 training 코드이며 아래 코드 실행.
+총 4개 모델에 대한 training 코드이며 아래 코드 실행   
 (--model 인자를 통해 모델을 선택할 수 있으며 nn(신경망), lgbm(lightgbm), xgboost(xgboost), catboost(catboost) 중 선택)   
 ```
 python train.py --model nn
